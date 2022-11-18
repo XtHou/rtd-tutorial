@@ -18,13 +18,10 @@ Welcome to AElf's Official documentation!
    :caption: Getting Started
 
    Development Environment<main_pages/Getting_started/development_environment>
+   Development Environment<main_pages/Getting_started/smart_contract_development>
+   
 
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Smart Contract Development
-
-   Smart Contract Development<main_pages/Getting_started/smart-contract-development>
 
 
 
