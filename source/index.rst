@@ -17,8 +17,8 @@ Welcome to AElf's Official documentation!
    :maxdepth: 2
    :caption: Getting Started
 
-   Development Environment<main_pages/Getting_started/development_environment>
-   Development Environment<main_pages/Getting_started/smart_contract_development>
+   01Development Environment<main_pages/Getting_started/development_environment>
+   02Development Environment<main_pages/Getting_started/smart_contract_development>
    
 
 
