@@ -1,5 +1,0 @@
-Development environment
-========================
-
-Set up
-------
