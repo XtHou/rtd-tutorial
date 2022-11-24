@@ -14,7 +14,7 @@ Welcome to AElf's Official documentation!
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Getting Started
 
    Development Environment<main_pages/Getting_started/development_environment>
