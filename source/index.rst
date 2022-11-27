@@ -15,7 +15,7 @@ Welcome to AElf's Official documentation!
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: HELP CENTER
 
    Create New Address<main_pages/Help-Center/Extension/index>
