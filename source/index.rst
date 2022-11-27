@@ -23,8 +23,6 @@ Welcome to AElf's Official documentation!
    
    
 
-.. toctree::
-   :maxdepth: 1
 
 
 
