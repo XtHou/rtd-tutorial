@@ -16,7 +16,7 @@ Welcome to AElf's Official documentation!
    
 .. toctree::
    :maxdepth: 1
-   :caption: Introduction
+   :caption: Introductiontwo
 
    Introduction <main_pages/Introduction/testfile>
 
