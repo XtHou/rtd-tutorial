@@ -22,6 +22,8 @@ Welcome to AElf's Official documentation!
    Import Existing Address<main_pages/Help-Center/App/index>
    
 
+.. toctree::
+   :maxdepth: 1
 
 
 
