@@ -15,10 +15,10 @@ Welcome to AElf's Official documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Getting Started
+   :caption: HELP CENTER
 
-   Development Environment<main_pages/Getting_started/development_environment>
-   Smart Contract Development<main_pages/Getting_started/smart_contract_development>
+   Create New Address<main_pages/Help-Center/Extension/index>
+   Import Existing Address<main_pages/Help-Center/App/index>
    
 
 
