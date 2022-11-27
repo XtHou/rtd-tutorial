@@ -19,7 +19,7 @@ Welcome to AElf's Official documentation!
    :caption: HELP CENTER
 
    <main_pages/Help-Center/index>
-   <main_pages/Help-Center/index>
+   
    
 
 .. toctree::
