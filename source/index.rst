@@ -20,9 +20,19 @@ Welcome to AElf's Official documentation!
 
    Create New Address <main_pages/Help-Center/new-addr/index>
    Import Existing Address <main_pages/Help-Center/existing-addr/index>
+  
+  
+  
    
+.. toctree::
+
+   Roadmap
+   Links
    
 
+.. toctree::
+
+   Terms of Service
 
 
 
