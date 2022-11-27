@@ -15,7 +15,7 @@ Welcome to AElf's Official documentation!
 
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Help Center
 
    Create New Address <main_pages/Help-Center/new-addr/index>
