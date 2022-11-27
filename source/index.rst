@@ -7,14 +7,15 @@ Welcome to AElf's Official documentation!
 ========================================
 
 
-
+.. toctree::
+   :maxdepth: 1
    :caption: Introduction
 
    Introduction <main_pages/Introduction/introduction>
 
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: HELP CENTER
 
    Create New Address<main_pages/Help-Center/Extension/index>
