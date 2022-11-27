@@ -15,8 +15,8 @@ Welcome to AElf's Official documentation!
 
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Help Center
+   :maxdepth: 1
+   :caption: Introduction
 
    Create New Address <main_pages/Help-Center/new-addr/index>
    Import Existing Address <main_pages/Help-Center/existing-addr/index>
