@@ -23,7 +23,7 @@ Welcome to AElf's Official documentation!
 
 .. toctree::
    :maxdepth: 1
-   :caption: Introduction
+   :caption: Help Center
 
    Create New Address <main_pages/Help-Center/new-addr/install>
    Import Existing Address <main_pages/Help-Center/new/click>
