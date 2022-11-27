@@ -1,5 +1,6 @@
 .. toctree::
    :maxdepth: 2
 
-  Create New Address <Extension/create-new-address>
-  Import Existing Address <App/import-existing-address>
+1. Install Portkey on Broswer<install-portkey> 
+2. Click<click> 
+
