@@ -1,8 +1,9 @@
-How do I create a new address through Portkey extension
-====================================================================
 
-1. Install Portkey on Browser
------------------------------------
+Create New Address
+===================
 
-2. Click
---------------
+.. toctree::
+   :maxdepth: 2
+
+  Create New Address <main_pages/Help-Center/Extension/create-new-adress>
+  Import Existing Address <main_pages/Help-Center/App/import-existing-adress>
