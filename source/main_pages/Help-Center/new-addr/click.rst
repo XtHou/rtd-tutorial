@@ -1,5 +1,1 @@
-step 1 
-=========
-
-step 1.1
-------------
+this is main_pages/help-center/new-addr/click.rst
