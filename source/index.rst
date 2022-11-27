@@ -18,7 +18,8 @@ Welcome to AElf's Official documentation!
    :maxdepth: 1
    :caption: HELP CENTER
 
-   <main_pages/Help-Center/index>
+   Create New Address<main_pages/Help-Center/index>
+   Import Existing Address<main_pages/Help-Center/index>
    
    
 
