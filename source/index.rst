@@ -12,6 +12,13 @@ Welcome to AElf's Official documentation!
    :caption: Introduction
 
    Introduction <main_pages/Introduction/introduction>
+   
+   
+.. toctree::
+   :maxdepth: 1
+   :caption: Introduction
+
+   Introduction <main_pages/Introduction/introduction>
 
 
 .. toctree::
