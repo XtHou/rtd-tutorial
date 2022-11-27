@@ -18,8 +18,8 @@ Welcome to AElf's Official documentation!
    :maxdepth: 1
    :caption: HELP CENTER
 
-   Create New Address<main_pages/Help-Center/Extension/index>
-   Import Existing Address<main_pages/Help-Center/App/index>
+   Create New Address<main_pages/Help-Center/index>
+   Import Existing Address<main_pages/Help-Center/index>
    
 
 .. toctree::
