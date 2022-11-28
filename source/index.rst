@@ -18,7 +18,7 @@ Welcome to AElf's Official documentation!
    :maxdepth: 1
    :caption: Help Center
 
-   Create New Address <main_pages/Help-Center/new-addr/install>
+   Create New Address <main_pages/Help-Center/new-addr/index>
 
 
 
